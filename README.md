@@ -1,4 +1,5 @@
 # vuekit
+This project install vue - tailwindcss - vuejs 3 composition api.
 
 ## Project setup
 ```
